@@ -4,7 +4,7 @@ Jenkins_configuration
 ## Quickstart
 ---
 
-### Start keycloak
+### Start Jenkins
 
 ## MAIN CONFIGURATION
 ---
